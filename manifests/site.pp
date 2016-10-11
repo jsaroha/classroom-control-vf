@@ -28,6 +28,7 @@ ini_setting { 'random ordering':
   value   => 'title-hash',
 }
 
+#Test comment
 
 #This is Jyo's change!
 # DEFAULT NODE
